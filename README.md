@@ -1,31 +1,11 @@
 ### Hi there 👋, I'm [Intezar Ali](https://github.com/Intezar-Dev-7) 👨‍💻
 
 <br/>
-
-<a href="https://www.linkedin.com/in/aman-atg/">
-  <img align="left" alt="Aman's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-
-<a href="https://instagram.com/intezar_7_">
-  <img align="left" alt="Aman Ansari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="mailto:Intezarcodes302@gmail.com">
-  <img align="left" alt="Aman's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-
-<br />
-
-<br/>
-
 <p>
 A Skilled Flutter Developer 🚀 from Goa, India. Always working on some project or learning something new!
 <br/>
 
 
-  
 ### ✨ About me
 
 - 👨🏽‍💻 I’m currently working as a freelancer.
@@ -56,11 +36,9 @@ A Skilled Flutter Developer 🚀 from Goa, India. Always working on some project
 
  Connect with me</h2>
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/avinash-r-2113741b1)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/)
 <br><br>
 [<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/intezar_7_/)
-<br><br>
-[<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.gmail.com/Intezarcodes302@gmail.com)
 <br><br>
 
   
