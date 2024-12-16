@@ -2,14 +2,16 @@
 
 <br/>
 <p>
-A Skilled Flutter Developer 🚀 from Goa, India. Always working on some project or learning something new!
+A Skilled Flutter Developer 🚀 Based in Goa, India. 
+<br/>
+Passionate about crafting beautiful, high-performance cross-platform applications that make an impact. Always exploring new technologies, contributing to innovative projects, and learning something new every day! 💡
 <br/>
 
 
 ### ✨ About me
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Docker and Kubernetes.
+- 👨🏽‍💻 Building scalable, efficient Flutter apps for Android & iOS 
+- 🌱 Currently learning Docker and Kubernetes.
 - 💬 Ask me about anything related to C, JAVA , FLUTTER , FIREBASE.
 - 🎿 Hobbies other than coding : Reading books or blogs and Playing Chess.
 - 📫 How to reach me: Intezarcodes302@gmail.com
