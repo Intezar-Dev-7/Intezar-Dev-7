@@ -25,8 +25,6 @@ A Skilled Flutter Developer 🚀 from Goa, India. Always working on some project
 <br/>
 
 
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ About me
 
