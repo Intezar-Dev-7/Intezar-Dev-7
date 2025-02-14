@@ -12,7 +12,6 @@ Passionate about crafting beautiful, high-performance cross-platform application
 
 - 👨🏽‍💻 Building scalable, efficient Flutter apps for Android & iOS 
 - 🌱 Currently learning Docker and Kubernetes.
-- 💬 Ask me about anything related to C, JAVA , FLUTTER , FIREBASE.
 - 🎿 Hobbies other than coding : Reading books or blogs and Playing Chess.
 - 📫 How to reach me: Intezarcodes302@gmail.com
 
