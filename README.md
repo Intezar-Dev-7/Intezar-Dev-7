@@ -40,7 +40,7 @@ Git, GitHub, Docker
 
 ### 🤝 Connect with me
   
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/intezar-ali-b50642352/)
+[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 <br><br>
 [<img align="top" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/dev_intezar_/)
 <br>
