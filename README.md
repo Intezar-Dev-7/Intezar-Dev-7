@@ -4,7 +4,6 @@
 
 * 👨🏽‍💻 Experienced in developing cross-platform mobile applications using Flutter (Android & iOS)
 * 🌐 Skilled in building and managing websites using WordPress
-* 🧰 Proficient in local development environments using Local by Flywheel
 * ⚙️ Strong understanding of backend technologies and API integration
 * 🌱 Currently enhancing skills in Docker and Kubernetes
 * 📫 Contact: [Intezarcodes302@gmail.com](mailto:Intezarcodes302@gmail.com)
