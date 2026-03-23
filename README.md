@@ -26,11 +26,11 @@ WordPress, Local by Flywheel
 
 ### ⚙️ Backend & Tools
 
-Node.js, Express
+Node.js, Express, Firebase
 
 ### 🛢 Databases
 
-MySQL, MongoDB, Firebase, PostgreSQL
+MySQL, MongoDB, PostgreSQL
 
 ### 🔧 Tools & Technologies
 
