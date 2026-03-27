@@ -30,7 +30,7 @@ Node.js, Express, Firebase
 
 ### 🛢 Databases
 
-MySQL, MongoDB, PostgreSQL
+MySQL, MongoDB 
 
 ### 🔧 Tools & Technologies
 
